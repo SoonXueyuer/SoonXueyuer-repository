@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="RSA破解程序/RSA破解程序.vcxproj" Id="a4d846ad-eeef-47fe-a358-8127992f7388" />
-</Solution>
