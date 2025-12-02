@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RSA加密程序/RSA加密程序.vcxproj" Id="adf76ab9-06e8-48d8-9447-f0b7a7e26306" />
+</Solution>
